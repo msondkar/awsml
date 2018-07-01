@@ -1,0 +1,5 @@
+Pedestrian Detection Systems!
+ 
+Pedestrian is detected in the image file "pedestrian.jpg" with a confidence score of 57.59%.
+
+Pedestrian is not detected in the image file "nopedestrian.jpg".

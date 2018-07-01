@@ -1,0 +1,71 @@
+
+AWS Comprehend Summary for English Paragraph --------------------
+ 
+Dominant language in the text is "en" with a confidence score of 0.994
+ 
+Entity : "United States", Type : "LOCATION", Score : 0.988
+Entity : "Thanksgiving Day", Type : "EVENT", Score : 0.981
+Entity : "one", Type : "QUANTITY", Score : 0.572
+Entity : "United States", Type : "LOCATION", Score : 0.995
+Entity : "Canada", Type : "LOCATION", Score : 0.998
+Entity : "United States", Type : "LOCATION", Score : 0.981
+Entity : "fourth Thursday of November", Type : "DATE", Score : 0.894
+Entity : "United States", Type : "LOCATION", Score : 0.926
+
+Key Phrase : "the United States", Score : 0.996
+Key Phrase : "Thanksgiving Day", Score : 0.999
+Key Phrase : "the biggest holidays", Score : 0.999
+Key Phrase : "the year", Score : 0.998
+Key Phrase : "the United States and Canada", Score : 0.948
+Key Phrase : "the United States", Score : 0.998
+Key Phrase : "the fourth Thursday", Score : 0.974
+Key Phrase : "November", Score : 0.998
+Key Phrase : "a day", Score : 0.997
+Key Phrase : "families", Score : 0.923
+Key Phrase : "the United States", Score : 0.999
+Key Phrase : "long distances", Score : 0.851
+Key Phrase : "traditional dishes", Score : 0.993
+Key Phrase : "football", Score : 0.893
+Key Phrase : "TV", Score : 0.984
+Key Phrase : "a big meal", Score : 0.993
+ 
+The overall sentiment of text is NEUTRAL
+ 
+AWS Comprehend Summary End --------------------------------------
+ 
+AWS Comprehend Summary for Spanish Paragraph --------------------
+ 
+Dominant language in the text is "es" with a confidence score of 0.999
+ 
+Entity : "Michelle", Type : "PERSON", Score : 0.991
+Entity : "36 años", Type : "QUANTITY", Score : 0.998
+Entity : "Nueva York", Type : "LOCATION", Score : 0.991
+Entity : "Philadelphia", Type : "LOCATION", Score : 0.999
+Entity : "Nueva York", Type : "LOCATION", Score : 1.0
+Entity : "hace 6 años", Type : "DATE", Score : 0.933
+Entity : "Nueva York", Type : "LOCATION", Score : 1.0
+
+Key Phrase : "Mi nombre", Score : 0.942
+Key Phrase : "Michelle", Score : 0.998
+Key Phrase : "36 años", Score : 1.0
+Key Phrase : "un banco", Score : 0.996
+Key Phrase : "la ciudad", Score : 0.998
+Key Phrase : "Nueva York", Score : 1.0
+Key Phrase : "el departamento", Score : 0.999
+Key Phrase : "finanzas", Score : 1.0
+Key Phrase : "la gente", Score : 0.999
+Key Phrase : "Philadelphia", Score : 0.994
+Key Phrase : "Nueva York", Score : 0.999
+Key Phrase : "hace 6 años", Score : 0.997
+Key Phrase : "Nueva York", Score : 1.0
+Key Phrase : "una ciudad fascinante", Score : 1.0
+Key Phrase : "museos", Score : 0.975
+Key Phrase : "teatros", Score : 0.99
+Key Phrase : "discotecas", Score : 0.985
+Key Phrase : "tiendas", Score : 0.997
+Key Phrase : "restaurantes", Score : 0.99
+ 
+The overall sentiment of text is POSITIVE
+ 
+AWS Comprehend Summary End --------------------------------------
+ 

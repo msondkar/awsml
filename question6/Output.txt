@@ -1,0 +1,35 @@
+Face Detection System!
+ 
+Number of faces detected in the image file "noface.jpg" is : 0
+ 
+-------------------------------------------------------------------------------
+Number of faces detected in the image file "oneface.jpg" is : 1
+ 
+Gender : Male
+Age Range : Between 38 and 57
+Smiling face : False
+Wearing Sunglasses : False
+Wearing Eyeglasses : True
+Having Beard : True
+Having Mustache : True
+ 
+-------------------------------------------------------------------------------
+Number of faces detected in the image file "multifaces.jpg" is : 2
+ 
+Gender : Male
+Age Range : Between 26 and 43
+Smiling face : True
+Wearing Sunglasses : True
+Wearing Eyeglasses : True
+Having Beard : True
+Having Mustache : False
+ 
+Gender : Female
+Age Range : Between 26 and 43
+Smiling face : True
+Wearing Sunglasses : True
+Wearing Eyeglasses : True
+Having Beard : False
+Having Mustache : False
+ 
+-------------------------------------------------------------------------------
